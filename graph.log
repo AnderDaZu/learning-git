@@ -1,0 +1,110 @@
+* commit b0177af563c7dc368ed06c0a1d7c69fcfe6e134a
+| Author: anderDaZu <anderda-96@hotmail.com>
+| Date:   Mon Aug 29 16:21:31 2022 -0500
+| 
+|     Agregando 2 parrafos
+|   
+*   commit 0f10e91f8435e7fe874ec2032c5fcaf2f4095a54
+|\  Merge: 451b0a5 3b0226a
+| | Author: anderDaZu <anderda-96@hotmail.com>
+| | Date:   Mon Aug 29 16:17:53 2022 -0500
+| | 
+| |     Resolviendo conflicto en Estaciones del año y fechas de inicio
+| | 
+| * commit 3b0226a9b079c63cfec0874a60521acefeca4d40
+| | Author: anderDaZu <anderda-96@hotmail.com>
+| | Date:   Mon Aug 29 15:21:00 2022 -0500
+| | 
+| |     Agregando las estaciones del año
+| | 
+* | commit 451b0a53521f2b33627b9ed9b5337fcdb13963b3
+|/  Author: anderDaZu <anderda-96@hotmail.com>
+|   Date:   Mon Aug 29 15:21:00 2022 -0500
+|   
+|       Agregando estaciones del año con fecha de inicio
+|   
+*   commit 2a73a7cf08bdc9f2191b12023f0c0bb1ac92da17
+|\  Merge: acd0061 e8d8f7a
+| | Author: anderDaZu <anderda-96@hotmail.com>
+| | Date:   Mon Aug 29 14:48:43 2022 -0500
+| | 
+| |     Resolviendo conflicto merge main/html en el documento index.html
+| | 
+| * commit e8d8f7a5027144321782b047fe4f2ed1ab391182
+| | Author: anderDaZu <anderda-96@hotmail.com>
+| | Date:   Mon Aug 29 14:32:34 2022 -0500
+| | 
+| |     Agregando index.js al index.html
+| | 
+* | commit acd0061cf752203f65553f8067e53feb4b6fe89e
+| | Author: anderDaZu <anderda-96@hotmail.com>
+| | Date:   Mon Aug 29 14:30:29 2022 -0500
+| | 
+| |     Agregando style .css al index.html
+| |   
+* |   commit 2a4393a24de9e0e7e39862249db9b4e7deb87add
+|\ \  Merge: 04cb1ee bf2e05d
+| | | Author: anderDaZu <anderda-96@hotmail.com>
+| | | Date:   Mon Aug 29 14:20:05 2022 -0500
+| | | 
+| | |     Merge branch 'js'
+| | | 
+| * | commit bf2e05d9592cc89df54db99f9a139281f47bae09
+| | | Author: anderDaZu <anderda-96@hotmail.com>
+| | | Date:   Mon Aug 29 12:09:30 2022 -0500
+| | | 
+| | |     Creando index .js
+| | | 
+* | | commit 04cb1ee0a189a2aea7d22764821887d23e9a18df
+| |/  Author: anderDaZu <anderda-96@hotmail.com>
+|/|   Date:   Mon Aug 29 12:04:12 2022 -0500
+| |   
+| |       Creando style.css
+| | 
+* | commit 85058ba51eaaf774828964895bb96dc77cbda4e1
+| | Author: anderDaZu <anderda-96@hotmail.com>
+| | Date:   Mon Aug 29 12:03:00 2022 -0500
+| | 
+| |     Eliminando style.css
+| | 
+* | commit 41c8fe7c28cce60ca00004470aa27d1cba0830ab
+| | Author: anderDaZu <anderda-96@hotmail.com>
+| | Date:   Mon Aug 29 11:34:49 2022 -0500
+| | 
+| |     Creando style.css
+| | 
+* | commit 7ee2c5324383eca364357f7f369df841667c7349
+|/  Author: anderDaZu <anderda-96@hotmail.com>
+|   Date:   Sun Aug 28 21:24:33 2022 -0500
+|   
+|       Creando index.html
+| 
+* commit ed3fa6a6a9102a68c58e74e50daf4fd25f0ae3b2
+| Author: anderDaZu <anderda-96@hotmail.com>
+| Date:   Sun Aug 28 21:11:05 2022 -0500
+| 
+|     Ignorando archivos .exe
+| 
+* commit 0919b539009ccb2cb6e3f2f31a1450e9a899e841
+| Author: Anderson Daza Zubieta <52935727+AnderDaZu@users.noreply.github.com>
+| Date:   Sun Aug 28 20:15:11 2022 -0500
+| 
+|     Creando licencia del repositorio
+| 
+* commit 066ecf298babdd8ec18cb0dcf17e1ddbf73acab4
+| Author: anderDaZu <anderda-96@hotmail.com>
+| Date:   Sun Aug 28 18:12:58 2022 -0500
+| 
+|     Agregando más contenido al README
+| 
+* commit 1726147b5653136b6d79a1a867b1d3c95032ace7
+| Author: anderDaZu <anderda-96@hotmail.com>
+| Date:   Sun Aug 28 17:57:17 2022 -0500
+| 
+|     Agregando contenido inicial al README
+| 
+* commit 871c2b7e89749a70f7dee2f025e8fae4636effe7
+  Author: anderDaZu <anderda-96@hotmail.com>
+  Date:   Sun Aug 28 17:30:14 2022 -0500
+  
+      Primer commit para curso 😁
